@@ -1,7 +1,7 @@
 def sumar(x, y):
     return x+y
 
-sumar(5+5)
+sumar(5,5)
 
 def restar(x, y):
     return x-y
