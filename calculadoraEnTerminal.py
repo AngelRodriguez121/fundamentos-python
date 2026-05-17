@@ -18,3 +18,5 @@ def dividir(x, y):
 
 print(dividir(20,5))
   
+menu = input("Menu:\n 1.-Sumar\n2.-Restar\n3.-Multiplicar\n4.-Dividir\nIngresa la opción deseada")
+
